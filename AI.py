@@ -1,6 +1,5 @@
 import streamlit as st
 import re
-import pyperclip
 from bs4 import BeautifulSoup
 from PyPDF2 import PdfReader
 from io import BytesIO
